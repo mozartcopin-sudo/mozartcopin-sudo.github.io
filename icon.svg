@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0b0f19"/>
+  <path d="M206 148 h52 v196 h76 v52 H206 Z" fill="#d9a62e"/>
+  <rect x="192" y="140" width="80" height="16" fill="#d9a62e"/>
+  <text x="330" y="392" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#d9a62e" text-anchor="middle" letter-spacing="4">POS</text>
+</svg>
